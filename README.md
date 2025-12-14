@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananda Rahma</h1>
-<h3 align="center">Welcome to my GitHub profile! ✨ I'm passionate about technology, especially in the areas of Databases, Software Testing, UI/UX Design, and Artificial Intelligence.</h3> 
+<h2 align="center">Welcome to my GitHub profile! </h2>
+<h3✨ I'm passionate about technology, especially in the areas of Databases, Software Testing, UI/UX Design, and Artificial Intelligence.</h3> 
 <h3 align="center">I enjoy learning new things and continuously improving my skills through hands-on projects and collaboration.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandarahmawati24" alt="anandarahmawati24" /></a> </p>
 
 🌱 **I’m currently learning:**
 -  Database design & management
